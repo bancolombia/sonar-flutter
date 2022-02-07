@@ -1,5 +1,6 @@
 ![CI](https://github.com/insideapp-oss/sonar-flutter/workflows/CI/badge.svg)
 ![Coverage](https://codecov.io/gh/insideapp-oss/sonar-flutter/branch/master/graph/badge.svg)
+[![Scorecards supply-chain security](https://github.com/bancolombia/sonar-flutter/actions/workflows/scorecards-analysis.yml/badge.svg)](https://github.com/bancolombia/sonar-flutter/actions/workflows/scorecards-analysis.yml)
 
 # SonarQube plugin for Flutter / Dart
 
