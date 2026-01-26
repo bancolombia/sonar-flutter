@@ -60,7 +60,7 @@
 
         <sonarQubeMinVersion>6.7</sonarQubeMinVersion>
 
-        <assertj.version>3.5.2</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <guava.version>17.0</guava.version>
         <junit.version>4.10</junit.version>
         <logback.version>1.0.13</logback.version>
